@@ -1,0 +1,225 @@
+[
+  {
+      "id": 12802,
+      "wellDepth": 5.43,
+      "wellBottomAlti": 2.367,
+      "otherLinkInfo": [
+          {
+              "offset": 2.897,
+              "sectionWidth": 1
+          },
+          {
+              "offset": 2.367,
+              "sectionWidth": 1
+          }
+      ],
+      "inLinkInfo": null,
+      "outLinkInfo": {
+          "offset": 2.314,
+          "sectionWidth": 1
+      },
+      "distance": 0,
+      "elementType": "NODE"
+  },
+  {
+      "id": 7737,
+      "distance": 0,
+      "pipeLength": 58.17330474635993,
+      "begNodeBottom": 2.367,
+      "endNodeBottom": 2.224,
+      "begOffset": 2.377,
+      "endOffset": 2.314,
+      "sectionWidth": 1,
+      "elementType": "LINK"
+  },
+  {
+      "id": 12902,
+      "wellDepth": 4.52,
+      "wellBottomAlti": 2.224,
+      "otherLinkInfo": [],
+      "inLinkInfo": {
+          "offset": 2.314,
+          "sectionWidth": 1
+      },
+      "outLinkInfo": {
+          "offset": 1.911,
+          "sectionWidth": 1
+      },
+      "distance": 58.17330474635993,
+      "elementType": "NODE"
+  },
+  {
+      "id": 12739,
+      "distance": 58.17330474635993,
+      "pipeLength": 62.72588851684247,
+      "begNodeBottom": 2.224,
+      "endNodeBottom": 1.911,
+      "begOffset": 2.314,
+      "endOffset": 1.911,
+      "sectionWidth": 1,
+      "elementType": "LINK"
+  },
+  {
+      "id": 12904,
+      "wellDepth": 4.68,
+      "wellBottomAlti": 1.911,
+      "otherLinkInfo": [
+          {
+              "offset": 2.141,
+              "sectionWidth": 1
+          }
+      ],
+      "inLinkInfo": {
+          "offset": 1.911,
+          "sectionWidth": 1
+      },
+      "outLinkInfo": {
+          "offset": 2.106,
+          "sectionWidth": 1
+      },
+      "distance": 120.89919326320239,
+      "elementType": "NODE"
+  },
+  {
+      "id": 12873,
+      "distance": 120.89919326320239,
+      "pipeLength": 42.83473075477969,
+      "begNodeBottom": 1.911,
+      "endNodeBottom": 2.106,
+      "begOffset": 2.161,
+      "endOffset": 2.106,
+      "sectionWidth": 1,
+      "elementType": "LINK"
+  },
+  {
+      "id": 12915,
+      "wellDepth": 4.92,
+      "wellBottomAlti": 2.106,
+      "otherLinkInfo": [],
+      "inLinkInfo": {
+          "offset": 2.106,
+          "sectionWidth": 1
+      },
+      "outLinkInfo": {
+          "offset": 1.316,
+          "sectionWidth": 1
+      },
+      "distance": 163.73392401798208,
+      "elementType": "NODE"
+  },
+  {
+      "id": 12875,
+      "distance": 163.73392401798208,
+      "pipeLength": 50.92084665389147,
+      "begNodeBottom": 2.106,
+      "endNodeBottom": 1.316,
+      "begOffset": 2.106,
+      "endOffset": 1.316,
+      "sectionWidth": 1,
+      "elementType": "LINK"
+  },
+  {
+      "id": 12906,
+      "wellDepth": 5.83,
+      "wellBottomAlti": 1.316,
+      "otherLinkInfo": [],
+      "inLinkInfo": {
+          "offset": 1.316,
+          "sectionWidth": 1
+      },
+      "outLinkInfo": {
+          "offset": 1.08,
+          "sectionWidth": 1
+      },
+      "distance": 214.65477067187356,
+      "elementType": "NODE"
+  },
+  {
+      "id": 12618,
+      "distance": 214.65477067187356,
+      "pipeLength": 52.1685534058467,
+      "begNodeBottom": 1.316,
+      "endNodeBottom": 1.08,
+      "begOffset": 1.316,
+      "endOffset": 1.08,
+      "sectionWidth": 1,
+      "elementType": "LINK"
+  },
+  {
+      "id": 12908,
+      "wellDepth": 6.41,
+      "wellBottomAlti": 1.08,
+      "otherLinkInfo": [],
+      "inLinkInfo": {
+          "offset": 1.08,
+          "sectionWidth": 1
+      },
+      "outLinkInfo": {
+          "offset": 0.956,
+          "sectionWidth": 1
+      },
+      "distance": 266.82332407772026,
+      "elementType": "NODE"
+  },
+  {
+      "id": 12869,
+      "distance": 266.82332407772026,
+      "pipeLength": 44.40073348895768,
+      "begNodeBottom": 1.08,
+      "endNodeBottom": 0.956,
+      "begOffset": 1.08,
+      "endOffset": 0.956,
+      "sectionWidth": 1,
+      "elementType": "LINK"
+  },
+  {
+      "id": 12909,
+      "wellDepth": 6.52,
+      "wellBottomAlti": 0.956,
+      "otherLinkInfo": [
+          {
+              "offset": 4.526,
+              "sectionWidth": 0.3
+          }
+      ],
+      "inLinkInfo": {
+          "offset": 0.956,
+          "sectionWidth": 1
+      },
+      "outLinkInfo": {
+          "offset": 0.595,
+          "sectionWidth": 1
+      },
+      "distance": 311.2240575666779,
+      "elementType": "NODE"
+  },
+  {
+      "id": 12872,
+      "distance": 311.2240575666779,
+      "pipeLength": 36.255677366571575,
+      "begNodeBottom": 0.956,
+      "endNodeBottom": 0.595,
+      "begOffset": 0.956,
+      "endOffset": 0.595,
+      "sectionWidth": 1,
+      "elementType": "LINK"
+  },
+  {
+      "id": 6128,
+      "wellDepth": 6.55,
+      "wellBottomAlti": 0.595,
+      "otherLinkInfo": [
+          {
+              "offset": 0.595,
+              "sectionWidth": 1
+          }
+      ],
+      "inLinkInfo": {
+          "offset": 0.595,
+          "sectionWidth": 1
+      },
+      "outLinkInfo": null,
+      "distance": 347.47973493324946,
+      "elementType": "NODE"
+  }
+]
