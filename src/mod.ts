@@ -9,9 +9,9 @@ import {
 } from 'd3'
 import { defaultsDeep } from 'lodash-es'
 import { createClipPath, getMaxminY, initDataG, initZoomHandle, verifyDataInput } from './ts'
-import type { dataInputT, linkDataInputT, nodeDataInputT } from './ts/type'
-import { Observer } from '@wuch96/utils'
+import { type dataInputT, type linkDataInputT, type nodeDataInputT } from './ts/type'
 import { defaultConfig } from './ts/defaultConfig'
+import { Observer } from '@wuch96/utils'
 export class ProfileChart {
   rootSvg = create('svg')
   xScale = scaleLinear()
